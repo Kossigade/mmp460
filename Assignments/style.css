@@ -1,0 +1,133 @@
+/* reset browser defaults */
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+    font-family: arial;
+    padding: 22px;
+    background-color: #6f6c6c;
+}
+
+}
+
+
+.container{
+	max-width:1000px;
+	margin:0 auto;
+}
+
+
+
+ header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+#skill #title{
+        text-align: center;
+    
+}
+
+#left{
+    
+    text-align: left;
+}
+.contact{
+    
+    text-align: center;
+}
+#skill ul {
+    padding: 8%;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+text {
+    text-align: center;
+    overflow: auto;
+    padding: 60px;
+}
+
+.text h3{
+    text-align: center;
+     text-decoration: none;
+    color: #87af87;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+    margin: 1%;
+    overflow: auto;
+}
+
+h2 {
+    text-align: right;
+    color: #c0ce73
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.info{
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.contact, #title, #left{
+    color: #87af87;
+    
+}
+
+.intro, .list{
+       text-decoration: none;
+        color: #ffffff; 
+    
+}
+
+.list{
+    margin-left:50px;
+    flex: auto;
+}
+
+figcaption {
+    color:#ffffff;
+}
+
+.download{
+    color:#ffffff;
+    text-align: center;
+}
+
+.resume{
+     color:#ffffff;
+}
+
+
+.footer-social {}
+.footer-social li { display: block;}
+
+
+
+
+
+
